@@ -64,5 +64,3 @@
 | Article on following up on applications without being annoying | A helpful article on following up | [Link](https://www.themuse.com/advice/how-to-follow-up-on-a-job-application-an-email-template) |
 | Dice | Job search site | [Link](https://www.dice.com/) |
 | The STAR method | A method for handling interview questions | [Link](https://lethain.com/star-method/) |
-|  |  | [Link]() |
-|  |  | [Link]() |
